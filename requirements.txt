@@ -1,0 +1,11 @@
+streamlit
+requests
+pymongo
+Pillow
+pytesseract
+torch
+transformers
+duckduckgo_search
+librosa
+soundfile
+twilio
